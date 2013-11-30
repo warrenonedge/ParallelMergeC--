@@ -1,0 +1,13 @@
+Sequential Time: 4080.000000
+
+Number of Processes: 32 
+MPI Time: 3823.740005 
+Speedup Factor: 0.000000 
+
+Number of Processes: 4 
+MPI Time: 2237.215042 
+Speedup Factor: 0.000000 
+
+Number of Processes: 7 
+MPI Time: 1889.759064 
+Speedup Factor: 0.000000 
